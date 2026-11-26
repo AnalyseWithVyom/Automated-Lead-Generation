@@ -1,5 +1,5 @@
 {
-  "_note": "Synthetic. Fictional companies on .example domains; fake names, emails and phones. This is what each provider returned, before the gates ran; replay.py drives it through storage/cli.py.",
+  "_note": "Synthetic. Fictional companies on .example domains; fake names, emails and phones. This is what each provider returned, before the gates run; replay.py drives it through storage/cli.py.",
   "list": {
     "name": "dach-fintech-cfos",
     "description": "target mid-market fintech CFOs in DACH for our compliance product",
