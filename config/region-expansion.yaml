@@ -4,8 +4,6 @@
 # returns 0 for "Europe" or "North America"). When a manifest's gotchas say a
 # provider needs per-country calls, the pipeline expands the brief's region using
 # this table and issues one call per country.
-#
-# Edit freely. Keys are the region names you use in briefs / gtm.config.yaml
 # defaults.geography; values are the country names each provider expects.
 
 Europe:
