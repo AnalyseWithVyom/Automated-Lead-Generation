@@ -49,7 +49,7 @@ Backends:
   postgres  -> shells out to `psql` against $DATABASE_URL.
 
 stdlib only — no pip installs. This is deliberate so the file can be fetched and
-piped, and so dedup parity with Postgres is auditable in one place.
+piped, and so dedup parity  Postgres is auditable in one place.
 """
 
 import argparse
